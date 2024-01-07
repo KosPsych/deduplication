@@ -7,6 +7,7 @@ This repository includes code designed to identify duplicates within pairs of (i
 The modalities are handled by pre-trained CNN and sentence transformer models, respectively.  
 The output is a similarity score ranging from 0 to 1, indicating the level of similarity.  
 
+![Example Image](docs/model.png)
 
 
 ## Running
